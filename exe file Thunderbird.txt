@@ -1,0 +1,2 @@
+https://infytq.onwingspan.com/apis/protected/v8/infyTQ/user/downloadIDCard/886eaa17-a8a9-467f-ae64-17debcefc781.pdf
+search-ms:displayname=Search%20Results%20in%20Mozilla%20Thunderbird&crumb=fileextension%3A~<.exe%20OR%20System.Generic.String%3A.exe&crumb=location:C%3A%5CProgram%20Files%5CMozilla%20Thunderbird
